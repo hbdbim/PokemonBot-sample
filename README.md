@@ -1,5 +1,12 @@
 # PokemonBot-sample
 
+Pequena demonstração de bot de whatsapp implementado com a api wppconect
+
+API
+https://github.com/wppconnect-team/wppconnect-server
+
+Link da live
+https://www.youtube.com/watch?v=Grp4X2WiPaw&t=3210s
 
 Não foi implementado no bot a parte de conexão, entao inicie a sessao no server (pokedex). 
 Se voce utilizar outro nome de sessão ou outra secret key no server o token gerado sera diferente e voce vai precisar 
